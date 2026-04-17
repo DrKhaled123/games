@@ -1,0 +1,147 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - generic "صورة المستخدم" [ref=e9]:
+            - generic [ref=e10]: ا
+          - generic [ref=e11]:
+            - heading "اللاعب" [level=3] [ref=e12]
+            - paragraph [ref=e13]: مستوى 1
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - generic [ref=e16]: "0"
+            - generic [ref=e17]: انتصارات
+          - generic [ref=e18]:
+            - generic [ref=e19]: 1,000
+            - generic [ref=e20]: عملات
+      - navigation "القائمة الرئيسية" [ref=e21]:
+        - menubar [ref=e22]:
+          - menuitem "الرئيسية" [ref=e23] [cursor=pointer]:
+            - img [ref=e24]
+            - generic [ref=e27]: الرئيسية
+          - menuitem "اللعبة" [ref=e28] [cursor=pointer]:
+            - img [ref=e29]
+            - generic [ref=e31]: اللعبة
+          - menuitem "الكوتشينة" [ref=e32] [cursor=pointer]:
+            - img [ref=e33]
+            - generic [ref=e37]: الكوتشينة
+          - menuitem "بوكر" [ref=e38] [cursor=pointer]:
+            - img [ref=e39]
+            - generic [ref=e41]: بوكر
+          - menuitem "الإنجازات" [ref=e42] [cursor=pointer]:
+            - img [ref=e43]
+            - generic [ref=e49]: الإنجازات
+          - menuitem "الملف الشخصي" [ref=e50] [cursor=pointer]:
+            - img [ref=e51]
+            - generic [ref=e54]: الملف الشخصي
+          - menuitem "الدروس" [ref=e55] [cursor=pointer]:
+            - img [ref=e56]
+            - generic [ref=e59]: الدروس
+          - menuitem "الإحصائيات" [ref=e60] [cursor=pointer]:
+            - img [ref=e61]
+            - generic [ref=e63]: الإحصائيات
+          - menuitem "الإعدادات" [ref=e64] [cursor=pointer]:
+            - img [ref=e65]
+            - generic [ref=e68]: الإعدادات
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - img [ref=e71]
+            - heading "تحدي اليوم" [level=4] [ref=e74]
+          - paragraph [ref=e75]: اكمل 5 جولات في وضع الكوتشينة واحصل على 100 عملة إضافية
+          - button "ابدأ التحدي" [ref=e76] [cursor=pointer]
+      - generic [ref=e78]: قدرات © 2026
+  - generic [ref=e79]:
+    - banner [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e83]:
+          - generic [ref=e85]: Q
+          - generic [ref=e86]:
+            - heading "قدرات" [level=1] [ref=e87]
+            - paragraph [ref=e88]: البطاقات الاستراتيجية
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - img [ref=e91]
+            - generic [ref=e93]: المستوى 1
+          - generic [ref=e94]:
+            - img [ref=e95]
+            - generic [ref=e100]: 1,000
+          - generic [ref=e101]:
+            - img [ref=e102]
+            - generic [ref=e108]: "0"
+            - generic [ref=e109]: انتصارات
+        - generic [ref=e110]:
+          - button "الإشعارات" [ref=e111] [cursor=pointer]:
+            - img [ref=e112]
+          - button "الإعدادات" [ref=e115] [cursor=pointer]:
+            - img [ref=e116]
+          - button "المساعدة" [ref=e119] [cursor=pointer]:
+            - img [ref=e120]
+          - button "تسجيل الخروج" [ref=e123] [cursor=pointer]:
+            - img [ref=e124]
+      - generic [ref=e129]:
+        - generic [ref=e130]: الخبرة
+        - generic [ref=e131]: 0 / 1000
+    - main [ref=e132]:
+      - generic [ref=e134]:
+        - generic [ref=e135]:
+          - generic [ref=e141]: ♠
+          - generic [ref=e144]: ♥
+          - generic [ref=e147]: ♦
+          - generic [ref=e150]: ♣
+          - generic [ref=e153]: ★
+          - generic [ref=e154]:
+            - heading "قدرات" [level=1] [ref=e155]
+            - paragraph [ref=e156]: لعبة البطاقات الاستراتيجية - بناء معرفتك دون حظ
+        - generic [ref=e157]:
+          - generic [ref=e158]:
+            - heading "اختر وضع اللعبة" [level=2] [ref=e159]
+            - generic [ref=e160]:
+              - generic [ref=e163] [cursor=pointer]:
+                - generic [ref=e164]:
+                  - img [ref=e166]
+                  - heading "الكوتشينة القدراتية" [level=3] [ref=e170]
+                - paragraph [ref=e171]: اللعبة الكلاسيكية المعتمدة على الاستراتيجية والمهارة
+                - generic [ref=e172]:
+                  - generic [ref=e173]: ابدأ اللعب
+                  - img [ref=e174]
+              - generic [ref=e178] [cursor=pointer]:
+                - generic [ref=e179]:
+                  - img [ref=e181]
+                  - heading "بوكر القدراتي" [level=3] [ref=e183]
+                - paragraph [ref=e184]: بناء أفضل يد من 5 بطاقات مع تحديات المعرفة
+                - generic [ref=e185]:
+                  - generic [ref=e186]: ابدأ اللعب
+                  - img [ref=e187]
+          - generic [ref=e189]:
+            - heading "مميزات اللعبة" [level=2] [ref=e190]
+            - generic [ref=e191]:
+              - generic [ref=e192]:
+                - img [ref=e193]
+                - heading "معرفة حقيقية" [level=3] [ref=e196]
+                - paragraph [ref=e197]: لا حظ، فقط إجابات صحيحة
+              - generic [ref=e198]:
+                - img [ref=e199]
+                - heading "استراتيجية عميقة" [level=3] [ref=e201]
+                - paragraph [ref=e202]: اختيار بطاقاتك بعناية
+              - generic [ref=e203]:
+                - img [ref=e204]
+                - heading "تنافس عادل" [level=3] [ref=e209]
+                - paragraph [ref=e210]: كل لاعب يرى بطاقاته
+              - generic [ref=e211]:
+                - img [ref=e212]
+                - heading "تطور مستمر" [level=3] [ref=e215]
+                - paragraph [ref=e216]: ارفع مستواك مع كل لعبة
+          - generic [ref=e217]:
+            - generic [ref=e218]:
+              - img [ref=e219]
+              - generic [ref=e221]: "0"
+              - generic [ref=e222]: ألعاب لعبها
+            - generic [ref=e223]:
+              - img [ref=e224]
+              - generic [ref=e226]: "1"
+              - generic [ref=e227]: مستوى الحالي
+            - generic [ref=e228]:
+              - img [ref=e229]
+              - generic [ref=e235]: "0"
+              - generic [ref=e236]: أطول مسلسل
